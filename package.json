@@ -1,0 +1,22 @@
+{
+  "name": "noteamwork",
+  "version": "1.0.0",
+  "description": "No Teamwork website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cuprumbot/noteamwork.git"
+  },
+  "author": "Luis Jimenez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuprumbot/noteamwork/issues"
+  },
+  "homepage": "https://github.com/cuprumbot/noteamwork#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
